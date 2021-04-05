@@ -1,6 +1,6 @@
 <param ve-config
-	   title="Bananas: Chaos out of Order"
-	   source-image="https://upload.wikimedia.org/wikipedia/commons/0/0f/Banana_Maria_Sibylla_Merian_1705_plate_XII.png"
+	   title="Datura Stramonium"
+	   source-image="https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Datura_stramonium_2_%282005_07_07%29.jpg/800px-Datura_stramonium_2_%282005_07_07%29.jpg"
 	   banner="https://jstor-labs.github.io/plant-humanities/images/banners/banana.png"
 	   eid="Q105076419"
 	   about="Q8666090"
@@ -9,7 +9,7 @@
 	   num-images="11"
 	   num-specimens="0"
 	   num-primary-sources="6"
-	   author="Ashley Buchanan">
+	   author="Sam Naylor">
 
 <param title="Hartekamp" eid="Q18771183">
 <param title="ploidy" eid="Q118406" aliases="diploid">
