@@ -1,7 +1,7 @@
 <param ve-config
 	   title="Datura Stramonium"
 	   source-image="https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Datura_stramonium_2_%282005_07_07%29.jpg/800px-Datura_stramonium_2_%282005_07_07%29.jpg"
-	   banner="https://jstor-labs.github.io/plant-humanities/images/banners/banana.png"
+	   banner="https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Datura_stramonium_2_%282005_07_07%29.jpg/800px-Datura_stramonium_2_%282005_07_07%29.jpg"
 	   eid="Q105076419"
 	   about="Q8666090"
 	   layout="vtl"
