@@ -11,38 +11,6 @@
 	   num-primary-sources="6"
 	   author="Sam Naylor">
 
-<param title="Hartekamp" eid="Q18771183">
-<param title="ploidy" eid="Q118406" aliases="diploid">
-<param title="Musa balbisiana" eid="Q94643">
-<param title="taxonomy of Linnaeus" eid="Q54878466" aliases="Latin binomial names">
-<param title="Systema Naturae" eid="Q29270" aliases="Linnaean’s formative work" >
-<param title="Musa × paradisiaca" eid="Q10757112" aliases="Musa paradisca" >
-<param title="Musa sapientium" eid="Q49625849" >
-<param title="Alexander the Great" eid="Q8409" aliases="Alexander the Great's" >
-<param title="Historia Plantarum" eid="Q17156420" aliases="Theophrastus" >
-<param title="Natural History" eid="Q442" aliases="Pliny" >
-<param title="Age of Discovery" eid="Q133641" aliases="European Maritime powers" >
-<param title="Fray Tomás de Berlanga" eid="Q115599" aliases="Friar Tomas de Berlanga" >
-<param title="Hispaniola" eid="Q25277" >
-<param title="New World" eid="Q127834" >
-<param title="Garcia de Orta" eid="Q1493994" >
-<param title="Umayyad Caliphate" eid="Q8575586" >
-<param title="Avicenna" eid="Q8011" >
-<param title="André Thévet" eid="Q523054" >
-<param title="staple food" eid="Q736427" aliases="dietary staple" >
-<param title="George Clifford III" eid="Q556591" aliases="George Clifford" >
-<param title="banana republic" eid="Q171751">
-<param title="Cavendish banana" eid="Q1051869" >
-<param title="United Fruit Company" eid="Q1771942" >
-<param title="monoculture" eid="Q220212">
-<param title="vegetative reproduction" eid="Q464666" aliases="vegetal propagation" >
-<param title="Panama disease" eid="Q3240031" >
-<param title="Goa" eid="Q1171" >
-<param eid="Q6165948" >
-<param eid="Q457191" >
-<param title="Rembert Dodoens" eid="Q437466" >
-<param title="Gros Michel banana" eid="Q1547451" aliases="Gros Michel" >
-
 ### Mezo-medicinal Origins
 “ill smelling medicinal coming out of ant hill” 
 —Tucker, Arthur O., and Jules Janick. Flora of the Codex Cruz-Badianus
@@ -82,5 +50,5 @@ One of the more well preserved and documented specimens of Datura Stramonium was
 ### Soil Drawing
 In constructing a new harbaria sheet for Datura this drawing seeks to incorporate a holistic and 
 
-<param ve-image region="-190,74,950,805" title="Soil in the Herbarium" url="https://files.cargocollective.com/c824497/210330_Sheet.jpg">
+<param ve-image title="Soil in the Herbarium" url="https://files.cargocollective.com/c824497/210330_Sheet.jpg">
 
