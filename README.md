@@ -74,12 +74,13 @@ The ants specific orange color, cratering soil, and potential to crawl over the 
 
 ### Harvard Herbaria Record
 One of the more well preserved and documented specimens of Datura Stramonium was first collected by Emilie Francis Williams in Tiverton, Rhode Island, September 27th, 1903. Emilie is described as a Boston based oriental rug importer, amateur botanist and Chinese porcelain collector. His more famous accolade would be one year after collecting this sample, that is to marry the noted archeologist Blanche Wheeler Williams. 
-<param ve-image title="Harvard Herbaria Sample, Datura: Solanaceae" url="https://bisque.cyverse.org/image_service/image/00-kGtA8oRwqEnMiWomz6jNh9?rotate=guess&resize=1250&format=jpeg,quality,100">
+<param ve-image  fit="contain" title="Harvard Herbaria Sample, Datura: Solanaceae" url="https://bisque.cyverse.org/image_service/image/00-kGtA8oRwqEnMiWomz6jNh9?rotate=guess&resize=1250&format=jpeg,quality,100">
 
 The sample was donated some years later to the then named Gray Herbarium, and where it now sits; two branches with a sectioned seed pod. Mature and juvenile leaves can be seen in the pressing, most probably taken from the uppermost branches; while the main stem, roots, and soil are entirely absent. While the herbaria sheet records a limited slice of real plant matter for posterity, its limits are evident in the lack of contextual, biological, and cultural milieu that make up what Datura represents.
-<param ve-image title="Group after leaving Delphi, on the way up Parnassus. Blanche Wheeler Williams on left. Courtesy of the Smith College Archives." url="https://www.brown.edu/Research/Breaking_Ground/photos/BlancheWheelerWilliams/1149013977.jpg">
+<param ve-image  fit="contain" title="Group after leaving Delphi, on the way up Parnassus. Blanche Wheeler Williams on left. Courtesy of the Smith College Archives." url="https://www.brown.edu/Research/Breaking_Ground/photos/BlancheWheelerWilliams/1149013977.jpg">
 
 ### Soil Drawing
 In constructing a new harbaria sheet for Datura this drawing seeks to incorporate a holistic and 
-<param ve-image title="Soil in the Herbarium" url="https://files.cargocollective.com/c824497/210330_Sheet.jpg">
+<param ve-image  fit="contain" title="Soil in the Herbarium" url="https://files.cargocollective.com/c824497/210330_Sheet.jpg">
 
+### .
