@@ -43,8 +43,12 @@
 <param title="Rembert Dodoens" eid="Q437466" >
 <param title="Gros Michel banana" eid="Q1547451" aliases="Gros Michel" >
 
-### Going bananas
-Everybody knows what a banana is. At least we think we do. Today, the banana is a ubiquitous and easy-to-recognize fruit that even shares the same name or sounds the same in many modern languages. Yet, despite this commonality across cultures, the actual identification and classification of our modern-day banana is, to quote a popular idiom, “bananas.” The identity of the wild ancestor, or ancestors, of our most common modern-day edible banana, the Cavendish, remains something of a mystery and scientists are still attempting to document the approximately 500 banana cultivars that have been grown for centuries.
+### Mezo-medicinal Origins
+“ill smelling medicinal coming out of ant hill” 
+—Tucker, Arthur O., and Jules Janick. Flora of the Codex Cruz-Badianus
+
+Datura Stramonium is a plant with cross cultural legacies and potent poisonous potential. In its distribution today it ranges various continents, climate zones, and soil types. As identified within the Codex Cruz-Badianus by Arthur Tucker and Janick Jules, it is drawn curiously with a root crowded by orange ants. Visible are also its multi-pointed leaf structure, seed capsule, and white flowers. More than simply wrapping around this plant's roots, the ants (identified as Forelius Pruinosus) fall off errant ends and seem to come from all directions to arrive at its base. As we will see, these ants serve multiple purposes as a representational tool. For one they are an identifying element for would be foragers to spot this banal leafed plant among others, and since the plant can thrive in multiple rocky or nutrient poor soils, they might have been a more salient character by which to spot it. They are also a warning sign, a signifier of the deliriant toxins that remain locked in the plant's tissue; warding off easy capture of chemicals most concentrated in the datura roots. However the ants also can be seen as a simulacra for multiple human and animal agents that combine to form this plant's use, nomenclature, and cosmology. 
+
 <param eid="Q503">
 <param ve-image manifest="https://iiif-v2.visual-essays.app/manifest/ff3076c8dd1685d68327112501a1691d529e69a5ba0fd21940af79703fbf2a2e">
 
