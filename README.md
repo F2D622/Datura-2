@@ -1,15 +1,4 @@
-<param ve-config
-	   title="Datura Stramonium"
-	   source-image="https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Datura_stramonium_2_%282005_07_07%29.jpg/800px-Datura_stramonium_2_%282005_07_07%29.jpg"
-	   banner="https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Datura_stramonium_2_%282005_07_07%29.jpg/800px-Datura_stramonium_2_%282005_07_07%29.jpg"
-	   eid="Q105076419"
-	   about="Q8666090"
-	   layout="vtl"
-	   num-maps="13"
-	   num-images="11"
-	   num-specimens="0"
-	   num-primary-sources="6"
-	   author="Sam Naylor">
+<param ve-config banner="https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Datura_stramonium_2_%282005_07_07%29.jpg/800px-Datura_stramonium_2_%282005_07_07%29.jpg">
 
 ### Mezo-medicinal Origins
 “ill smelling medicinal coming out of ant hill” 
