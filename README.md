@@ -82,3 +82,5 @@ One of the more well preserved and documented specimens of Datura Stramonium was
 ### Soil Drawing
 In constructing a new harbaria sheet for Datura this drawing seeks to incorporate a holistic and 
 
+<param ve-image region="-190,74,950,805" title="Soil in the Herbarium" url="https://raw.githubusercontent.com/F2D622/Datura-Stramonium/main/210330_Sheet.jpg">
+
