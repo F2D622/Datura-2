@@ -1,6 +1,6 @@
 <param ve-config
 	   title="Datura: A Trash Heap of Toxic Delirium"
-	   source-image="https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Datura_stramonium_2_%282005_07_07%29.jpg/800px-Datura_stramonium_2_%282005_07_07%29.jpg"
+	   source-image="https://files.cargocollective.com/c824497/210330_GithubCover-01.jpg"
 	   eid="Q105076419"
 	   about="Q8666090"
 	   layout="vtl"
