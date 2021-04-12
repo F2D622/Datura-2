@@ -24,7 +24,7 @@ Datura Stramonium is a plant with cross cultural legacies and potent poisonous p
 ### Morphology
 Datura is a flowering annual that often forms an erect freely branching form reaching between 60-150 cm in height. Its flowers bloom throughout the summer, and form 6-8 cm long white and violet hues. Their nectar, which emits a pleasant fragrance, and are fed upon by nocturnal moths, a factor that perhaps contributes to one common name: Moon Flower. The branches also form simple, pinnately lobed, and alternate leaves; each with several acute tips. 
 
-<param ve-image region="-147,-1,739,626" title="Roasted Coffee Beans" url="https://upload.wikimedia.org/wikipedia/commons/1/13/Libellus_de_medicinalibus_Indorum_herbis_f._13v.jpg">
+<param ve-image title="Datura Flower" url="https://render.fineartamerica.com/images/rendered/default/poster/8/10/break/images/artworkimages/medium/3/datura-stramonium-illustration-1827-r1-botany.jpg">
 
 The seeds of this plant coalesce in hard spiked pods, holding around 150 seeds. Each shell can be from 3-8 cm in diameter and eventually splits into four chambers when ripe, revealing a poperie of black seeds to be plucked by small birds. The birds then distribute these seeds through digestion or error, which can lie dormant underground for years before germinating. 
 
@@ -33,18 +33,20 @@ The seeds of this plant coalesce in hard spiked pods, holding around 150 seeds. 
 
 In this soil the roots form an extensive, many branching, but shallow taproot system; ranging from green to purple in color. While the history of datura points to its survival veracity in trash or unwanted ecological milieu it will grow more perniciously in rich, calcareous soil, with added nitrogen increasing the concentration of alkaloids present in the plant. 
 
-<param ve-image region="-147,-1,739,626" title="Roasted Coffee Beans" url="https://upload.wikimedia.org/wikipedia/commons/1/13/Libellus_de_medicinalibus_Indorum_herbis_f._13v.jpg">
+<param ve-image title="Datura Plant" url="https://ia800501.us.archive.org/BookReader/BookReaderImages.php?id=mobot21753000002021&itemPath=%2F12%2Fitems%2Fmobot21753000002021&server=ia800501.us.archive.org&page=n215_w514">
 
 ### Cultural Connotations
 As it is commonly known today, Datura Stramonium goes by many english sudenyms: Thorn Apple, Jimsonweed (Jimson Weed), Devil's Snare, Moon Flower, Hell's Bells, Devil's Trumpet, Devil's Weed, Tolguacha, Jamestown Weed, Stinkweed, Locoweed, Prickly Burr, False Castor Oil Plant, Devil's Cucumber, and Mad Apple. 
 
-<param ve-image region="-147,-1,739,626" title="Roasted Coffee Beans" url="https://upload.wikimedia.org/wikipedia/commons/1/13/Libellus_de_medicinalibus_Indorum_herbis_f._13v.jpg">
+<param ve-image title="Roasted Coffee Beans" url="https://img.17qq.com/images/asuwurwqhqx.jpeg">
 
 This entomology clearly signifies its most salient socio-cultural aspects; those of religiosity, evil, invasiveness, deception, nighttime, and psychosis. The plant can be seen in the artwork of the American artist Georgia O’keeffe (Jimson weed/white flower no. 1. 1936). In the large format painting the Datura flowers swirl around each other, showing different stages in the plant's growth. The close cropped frame and floating context could denote a link to the psychic use throughout indigenous peoples across the American southwest. 
 
-<param ve-image region="-147,-1,739,626" title="Roasted Coffee Beans" url="https://upload.wikimedia.org/wikipedia/commons/1/13/Libellus_de_medicinalibus_Indorum_herbis_f._13v.jpg">
+<param ve-image title="Jimson Weed, 1936 by Georgia O'Keeffe" url="https://www.georgiaokeeffe.net/images/paintings/jimson-weed.jpg">
 
 The Italian techno-pop group “Datura,” took its name from the eponymous plant. This late twentieth century music group included within their album descriptions of hallucinations caused by the so-called “devil's weed,” and espoused its potential for cosmic certainty. 
+
+<param ve-image title="CD cover 1993, ZYX Music" url="https://doctorlib.info/herbal/encyclopedia-psychoactive-plants-ethnopharmacology/encyclopedia-psychoactive-plants-ethnopharmacology.files/image297.jpg">
 
 ### Delirious Use
 California’s colonial history has recounted the use of Datura for ceremonial uses among the idigenous people. Dried roots from the plant were steeped in water to create a powerful tea. The drink was ingested with careful consultation with elders and experienced tribal leaders: “Tribal leaders had each initiate purify himself, drink the hallucinogenic drug toloache (Datura), and then dance until unconscious. This often produced a colorful, mystical vision.” This process, cited as being called, “pa’nish mani,” or simply, “mani,” was one of the most significant initial steps for initiation. 
