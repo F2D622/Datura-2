@@ -34,8 +34,7 @@ Datura is a flowering annual that often forms an erect freely branching form rea
 <param ve-image fit="contain" title="Datura Flower" url="https://render.fineartamerica.com/images/rendered/default/poster/8/10/break/images/artworkimages/medium/3/datura-stramonium-illustration-1827-r1-botany.jpg">
 
 The seeds of this plant coalesce in hard spiked pods, holding around 150 seeds. Each shell can be from 3-8 cm in diameter and eventually splits into four chambers when ripe, revealing a poperie of black seeds to be plucked by small birds. The birds then distribute these seeds through digestion or error, which can lie dormant underground for years before germinating. 
-<param ve-image fit="contain" title="Fruits and seeds – MHNT" url="https://en.wikipedia.org/wiki/Datura_stramonium#/media/File:Datura_stramonium_MHNT.BOT.2004.0.263a.jpg
-">
+<param ve-image fit="contain" title="Fruits and seeds – MHNT" url="https://upload.wikimedia.org/wikipedia/commons/9/9a/Datura_stramonium_MHNT.BOT.2004.0.263a.jpg">
 
 In this soil the roots form an extensive, many branching, but shallow taproot system; ranging from green to purple in color. While the history of datura points to its survival veracity in trash or unwanted ecological milieu it will grow more perniciously in rich, calcareous soil, with added nitrogen increasing the concentration of alkaloids present in the plant. 
 <param ve-image fit="contain" title="Datura Plant" url="https://ia800501.us.archive.org/BookReader/BookReaderImages.php?id=mobot21753000002021&itemPath=%2F12%2Fitems%2Fmobot21753000002021&server=ia800501.us.archive.org&page=n215_w514">
@@ -55,7 +54,7 @@ California’s colonial history has recounted the use of Datura for ceremonial u
 <param ve-image fit="contain" title="Natives treating the sick, United States of America, engraving by Vernier from Etats-Unis d'Amerique, by Roux de Rochelle, L'Univers Pittoresque, published by Firmin Didot Freres, Paris, 1837." url="https://specials-images.forbesimg.com/imageserve/5fc3d8b2ac713407e188f27e/960x0.jpg?fit=scale">
 
 Finally, a curious case of colonial Datura use occurred in 1676 during the Rebellion of Bacon. Soldiers stationed at the encampment boiled the leaves and consumed them in a salad. Delirium immediately took effect, and several men spent the next eleven days in an altered delirious state. According to Robert Beverly in the History and Present State of Virginia, “In this frantic condition they were confined, lest they should, in their folly, destroy themselves – though it was observed that all their actions were full of innocence and good nature... thousand such simple tricks they played, and after 11 days returned to themselves again, not remembering anything that had passed.”
-<param ve-image fit="contain" title="Captain John Smith- Founder of Jamestown" url="https://rebeccadingle.files.wordpress.com/2017/08/smith.jpg?w=640">
+<param ve-image fit="contain" title="Venus and Mars by Sandro Botticelli c.1483" url="https://i1.wp.com/www.thecannachronicles.com/wp-content/uploads/2017/06/25_Venus_and_Mars_jpg.jpg?w=800">
 
 ### Animal Actors
 Aside from human consumers, many different species of birds, ants, and moths play an integral part in the life cycle and cosmology of Datura. Small birds have been seen plucking and consuming the seeds of open Datura pods. These seeds, which eventually reach soil through the avian digestion, can lie dormant underground for many years — germinating only when the soil is disturbed. This in part contributes to their identity as a ‘weed,’ and explains much of the plants’ robust repopulation in tough terrain. 
