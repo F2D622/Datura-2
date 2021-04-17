@@ -15,7 +15,7 @@
 “ill smelling medicinal coming out of ant hill” 
 —Tucker, Arthur O., and Jules Janick. Flora of the Codex Cruz-Badianus
 <param ve-image
-    title="Datura Stramonium in the Codex Cruz-Badianus"
+    title="(left) Datura Stramonium in the Codex Cruz-Badianus"
     url="https://notevenpast.org/wp-content/uploads/2019/03/Fig_2_0.jpg"
     curtain="true"
     fit="contain"
@@ -23,15 +23,18 @@
 
 Datura Stramonium is a plant with cross cultural legacies and potent poisonous potential. In its distribution today it ranges various continents, climate zones, and soil types. As identified within the Codex Cruz-Badianus by Arthur Tucker and Janick Jules, it is drawn curiously with a root crowded by orange ants. Visible are also its multi-pointed leaf structure, seed capsule, and white flowers. More than simply wrapping around this plant's roots, the ants (identified as Forelius Pruinosus) fall off errant ends and seem to come from all directions to arrive at its base. As we will see, these ants serve multiple purposes as a representational tool. For one they are an identifying element for would be foragers to spot this banal leafed plant among others, and since the plant can thrive in multiple rocky or nutrient poor soils, they might have been a more salient character by which to spot it. They are also a warning sign, a signifier of the deliriant toxins that remain locked in the plant's tissue; warding off easy capture of chemicals most concentrated in the datura roots. However the ants also can be seen as a simulacra for multiple human and animal agents that combine to form this plant's use, nomenclature, and cosmology. 
 <param ve-image
-    title="Watercolor Reproduction of (Left) Datura Stramonium in the Codex Cruz-Badianus"
+    title="(Left) Watercolor Reproduction of Datura Stramonium in the Codex Cruz-Badianus"
     url="https://www.doaks.org/resources/rare-books/water-color-reproductions-of-the-herbs-in-the-badianus-manuscript-codex-barberini-latin-241-vatican-library-an-aztec-herbal-of-1552/vuillemin-somni_990095787720203941.jpg"
     curtain="true"
     fit="contain"
         ref="1" >
 
 ### Morphology
-Datura is a flowering annual that often forms an erect freely branching form reaching between 60-150 cm in height. Its flowers bloom throughout the summer, and form 6-8 cm long white and violet hues. Their nectar, which emits a pleasant fragrance, are fed upon by nocturnal moths, a factor that perhaps contributes to one of its common names: “Moon Flower”. The branches also form simple, pinnately lobed, and alternate leaves; each with several acute tips. 
-<param ve-image fit="contain" title="Datura Flower" url="https://render.fineartamerica.com/images/rendered/default/poster/8/10/break/images/artworkimages/medium/3/datura-stramonium-illustration-1827-r1-botany.jpg">
+Datura is a flowering annual that often forms an erect freely branching form reaching between 60-150 cm in height. 
+<param ve-image fit="contain" title="Datura artwork by Cinzia Marotta. Oil on Canvas. 11.8x7.9 in." url="https://www.artmajeur.com/medias/hd/c/i/cinziamarotta/artwork/8974885_dscn1013.jpg">
+
+Its flowers bloom throughout the summer, and form 6-8 cm long white and violet hues. Their nectar, which emits a pleasant fragrance, are fed upon by nocturnal moths, a factor that perhaps contributes to one of its common names: “Moon Flower”. The branches also form simple, pinnately lobed, and alternate leaves; each with several acute tips. 
+<param ve-image fit="contain" title="Datura Laevis. From P. J. Redouté's Choix des plus belles fleurs. Plate 33" url="https://render.fineartamerica.com/images/rendered/default/poster/8/10/break/images/artworkimages/medium/3/datura-stramonium-illustration-1827-r1-botany.jpg">
 
 The seeds of this plant coalesce in hard spiked pods, each holding around 150 seeds. Their size can range from 3-8 cm in diameter and eventually split into four chambers when ripe; revealing a poperie of black seeds to be plucked by small birds. The birds then distribute these seeds through digestion or by falling, which can lie dormant underground for years before germinating. 
 <param ve-image fit="contain" title="Fruits and seeds – MHNT" url="https://upload.wikimedia.org/wikipedia/commons/9/9a/Datura_stramonium_MHNT.BOT.2004.0.263a.jpg">
