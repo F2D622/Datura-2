@@ -89,7 +89,7 @@ In constructing a new harbaria sheet for Datura Stramonium this drawing seeks to
 <param ve-image  fit="contain" title="Soil in the Herbarium" url="https://files.cargocollective.com/c824497/210330_Sheet.jpg">
 
 The main focus of the drawing is the plant’s soil, which is drawn through an aggregate of various elements: sediments and minerals, environmental milieu, animal actors, delerian toxins, processing objects, and bodily effects. 
-<param ve-image  fit="contain" title="Soil in the Herbarium" url="https://files.cargocollective.com/c824497/210330_Sheet.jpg">
+<param ve-image region=1,2494,1125,1012 fit="contain" title="Soil in the Herbarium" url="https://files.cargocollective.com/c824497/210330_Sheet.jpg">
 
 Starting from the lower portion of the drawing we can see more of the effects drawn, a mixture of deathly and psycho-analytic properties depicted at the lowest strata of the soil to represent the time it would take to ingest and the depth to which these factors are apparent at.
 
