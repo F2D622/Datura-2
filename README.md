@@ -92,14 +92,19 @@ The main focus of the drawing is the plant’s soil, which is drawn through an a
 <param ve-image region=1,2494,1125,1012 fit="contain" title="Soil in the Herbarium" url="https://files.cargocollective.com/c824497/210330_Sheet.jpg">
 
 Starting from the lower portion of the drawing we can see more of the effects drawn, a mixture of deathly and psycho-analytic properties depicted at the lowest strata of the soil to represent the time it would take to ingest and the depth to which these factors are apparent at.
+<param ve-image region=1473,2200,830,703 fit="contain" title="Soil in the Herbarium" url="https://files.cargocollective.com/c824497/210330_Sheet.jpg">
 
 Moving up we see a congestion of delian toxins and Datura seeds around the plant’s main taproot. These seeds are often the source of poisoning for horses, and they can lay dormant underground for years. 
+<param ve-image region=679,1767,830,703 fit="contain" title="Soil in the Herbarium" url="https://files.cargocollective.com/c824497/210330_Sheet.jpg">
 
 Crossing between areas are a network of ant paths, which are dug throughout the sand, and which form a network of interconnectedness between the Datura roots and other soil strata. 
+<param ve-image region=1385,1801,830,703 fit="contain" title="Soil in the Herbarium" url="https://files.cargocollective.com/c824497/210330_Sheet.jpg">
 
 At the topmost layer we see a mix of environmental objects (roadside trash and fishing detritus), and processing objects (grinding pestle, tea cup, cigar), which humans have used to absorb the toxins of the Datura. 
+<param ve-image region=197,826,830,703 fit="contain" title="Soil in the Herbarium" url="https://files.cargocollective.com/c824497/210330_Sheet.jpg">
 
 Amidst ants and humans are then a flurry of night moths, indicated by the lunar cycle, and which are a main pollinating source for the plant. 
+<param ve-image region=457,0,1433,1214 fit="contain" title="Soil in the Herbarium" url="https://files.cargocollective.com/c824497/210330_Sheet.jpg">
 
 The rest of the drawing attempts to synthesize many disparate facets of the plant's life cycle and anthropological use. Its depiction is highly informed by the original specimens extraction in Tiverton, Rhode Island; and thus future study should seek alternative cultural and geographical milieu through which to understand Datura Stramonium. Finally, the drawing by its nature and depiction makes an argument that Datura is best represented in record not as a severed sample of an upper branch, but as an organism deeply defined by its surroundings — as though its soil strata defined Datura, an earth in which it lives, spreads, poisons, dies, and is ultimately a part.
 <param ve-image  fit="contain" title="Soil in the Herbarium" url="https://files.cargocollective.com/c824497/210330_Sheet.jpg">
