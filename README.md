@@ -1,7 +1,7 @@
 <param ve-config
 	   title="Datura: A Trash Heap of Toxic Delirium"
-	   source-image="https://files.cargocollective.com/c824497/210330_GithubCover-01.jpg"
-	   banner="https://files.cargocollective.com/c824497/210330_GithubCover-01.jpg"
+	   source-image="https://files.cargocollective.com/c824497/210330_GithubCover-01.png"
+	   banner="https://files.cargocollective.com/c824497/210330_GithubCover-01.png"
 	   eid="Q105076419"
 	   about="Q8666090"
 	   layout="vtl"
