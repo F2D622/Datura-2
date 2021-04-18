@@ -74,14 +74,14 @@ Night moths are another winged ally. Attracted to the nectar of the flowing Datu
 PROFESSOR OF ECOLOGY AND EVOLUTIONARY BIOLOGY AT THE UNIVERSITY OF ARIZONA" url="https://images.squarespace-cdn.com/content/v1/5a107e5b8c56a8994f395098/1529448032575-5YB46PHXVQS8J1MHM7NM/ke17ZwdGBToddI8pDm48kIT0lMRItdDKQB53usPvd6BZw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZamWLI2zvYWH8K3-s_4yszcp2ryTI0HqTOaaUohrI8PI1qfWwh-zQcTL7_vetI2LO0i13zT1ZDIkWTycQPFoa8EKMshLAGzx4R3EDFOm1kBS/DaturaMothFinalMoon.jpg?format=1000w">
 
 Finally, the ants so wonderfully depicted in the Codex Cruz-Badianus are thought to be of the species, Forelius Pruinosus, or “High Noon Ant”. This extremely common grounding ant forms large polygynous underground nests. Notably the ant shares a predilection for disturbed sites, which have loose and open soil through which to burrow. Disorganized soil craters may form at the entrance to their colonies, perhaps forming as the most immediate visual clue for the Codex artists to draw from. 
-<param ve-image fit="contain" title="Profile view of ant Forelius pruinosus" url="https://antwiki.org/wiki/images/a/a5/Forelius_pruinosus_casent0005320_profile_1.jpg">
+<param ve-image fit="contain" title="Profile view of the ant, Forelius pruinosus" url="http://www.navajonature.org/images/ants/dolichoderinae/extra/forelius-pruinosus-drawing-thumb.gif">
 
 Although research remains scant on the exact relationship between Forelius and Datura, studies have shown other plants use these ants as bodyguards, leaving behind a nectar on leaves and stems to deter hungry caterpillars who would otherwise eat their leaves. Pruinosus translated directly means, “covered with hoarfrost,” and it is this prepubescent that probably deters other creatures from venturing too close to the ants home and potential food source. 
-<param ve-image fit="contain" title="Profile view of ant Forelius pruinosus" url="https://antwiki.org/wiki/images/a/a5/Forelius_pruinosus_casent0005320_profile_1.jpg">
+<param ve-image fit="contain" title="An underground view of the Riverina Grasslands. See if you can find: Broughton Pea (Swainsona procumbens), Small Vanilla Lily (Arthropodium minus), Meat ants (Iridomyrmex purpureus), Ink Pot fungus (?Podaxis pistillaris), Grasses, Cottonbush (Maireana aphylla), Prickly Saltbush (Salsola australis), Fuzzweed (Vittadinia cuneata), Fat-tailed Dunnart, Curl snake, Cow, Wolf spider, Brown snake, Scorpion (Urodacus armatus), Australian Plague Locust and Trapdoor spider" url="https://i0.wp.com/www.paperbarkwriter.com/wp-content/uploads/2016/05/Burrows-small.jpg?w=2000&ssl=1">
 
 ### Codex Creatures
 The ants specific orange color, cratering soil, and potential to crawl over the plant explain to some extent the reason for their significance in the codex. It is also probably the case that these ants, in place of typical geomorphic soil characteristics in the codex, imply an a-site relationship for Datura. While they signify the disturbed, wild, and diffuse habitat potential. They may also signify that because of the extreme delirious and dangerous potential of the Datura, that a more unique attribution was required in order to identify it for potential use across the ocean in Spain. The ants then are both a literal signifier of the plant's symbiotic relationships, but also a mimetic simulacra of its important classification. At the very bottom right of the image one ant can be seen painted upside down it seems, while another below it is completely off the roots. Therein could lie another message, one of potential death, and perhaps, as was the case with Jamestown, potential spread of toxic consequences outside of the colony. 
-<param ve-image fit="contain" title="Roasted Coffee Beans" url="https://upload.wikimedia.org/wikipedia/commons/1/13/Libellus_de_medicinalibus_Indorum_herbis_f._13v.jpg">
+<param ve-image region=69,450,462,363 title="Roasted Coffee Beans" url="https://www.doaks.org/resources/rare-books/water-color-reproductions-of-the-herbs-in-the-badianus-manuscript-codex-barberini-latin-241-vatican-library-an-aztec-herbal-of-1552/vuillemin-somni_990095787720203941.jpg">
 
 ### Harvard Herbaria Record
 One of the more well preserved and documented specimens of Datura Stramonium was first collected by Emilie Francis Williams in Tiverton, Rhode Island, September 27th, 1903. 
@@ -91,7 +91,7 @@ Emilie is described as a Boston based oriental rug importer, amateur botanist an
 <param ve-image  fit="contain" title="Group after leaving Delphi, on the way up Parnassus. Blanche Wheeler Williams on left. Courtesy of the Smith College Archives." url="https://www.brown.edu/Research/Breaking_Ground/photos/BlancheWheelerWilliams/1149013977.jpg">
 
 The sample was donated some years later to the then named Gray Herbarium, and where it now sits; two branches with a sectioned seed pod. Mature and juvenile leaves can be seen in the pressing, most probably taken from the uppermost branches; while the main stem, roots, and soil are entirely absent. While the herbaria sheet records a limited slice of real plant matter for posterity, its limits are evident in the lack of contextual, biological, and cultural milieu that make up what Datura represents. 
-<param ve-image  fit="contain" title="Harvard Herbaria Sample, Datura: Solanaceae" url="https://bisque.cyverse.org/image_service/image/00-kGtA8oRwqEnMiWomz6jNh9?rotate=guess&resize=1250&format=jpeg,quality,100">
+<param ve-image region=183,466,1068,905 title="Harvard Herbaria Sample, Datura: Solanaceae" url="https://bisque.cyverse.org/image_service/image/00-kGtA8oRwqEnMiWomz6jNh9?rotate=guess&resize=1250&format=jpeg,quality,100">
 
 ### Soil Drawing
 In constructing a new harbaria sheet for Datura Stramonium this drawing seeks to incorporate a holistic and cross-disciplinary knowledge into the plant’s permanent record. 
@@ -118,4 +118,7 @@ Amidst ants and humans are then a flurry of night moths, indicated by the lunar 
 The rest of the drawing attempts to synthesize many disparate facets of the plant's life cycle and anthropological use. Its depiction is highly informed by the original specimens extraction in Tiverton, Rhode Island; and thus future study should seek alternative cultural and geographical milieu through which to understand Datura Stramonium. Finally, the drawing by its nature and depiction makes an argument that Datura is best represented in record not as a severed sample of an upper branch, but as an organism deeply defined by its surroundings — as though its soil strata defined Datura, an earth in which it lives, spreads, poisons, dies, and is ultimately a part.
 <param ve-image  fit="contain" title="Soil in the Herbarium" url="https://files.cargocollective.com/c824497/210420_Sheet-01.jpg">
 
-### .
+
+
+
+
