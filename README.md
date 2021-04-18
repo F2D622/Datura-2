@@ -98,7 +98,7 @@ Starting from the lower portion of the drawing we can see more of the effects dr
 <param ve-image region=3721,6619,2487,2107 fit="contain" title="Soil in the Herbarium" url="https://files.cargocollective.com/c824497/210420_Sheet-01.jpg">
 
 Moving up we see a congestion of delian toxins and Datura seeds around the plant’s main taproot. These seeds are often the source of poisoning for horses, and they can lay dormant underground for years. 
-<param ve-image region=2008,5132,2487,21073 fit="contain" title="Soil in the Herbarium" url="https://files.cargocollective.com/c824497/210420_Sheet-01.jpg">
+<param ve-image region=2196,5185,2487,2107 fit="contain" title="Soil in the Herbarium" url="https://files.cargocollective.com/c824497/210420_Sheet-01.jpg">
 
 Crossing between areas are a network of ant paths, which are dug throughout the sand, and which form a network of interconnectedness between the Datura roots and other soil strata. 
 <param ve-image region=3920,3251,2073,1756 fit="contain" title="Soil in the Herbarium" url="https://files.cargocollective.com/c824497/210420_Sheet-01.jpg">
