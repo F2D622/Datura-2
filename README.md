@@ -1,5 +1,5 @@
 <param ve-config
-	   title="Datura: A Trash Heap of Toxic Delirium"
+	   title="Datura: An Ant Hill of Toxic Delirium"
 	   source-image="https://files.cargocollective.com/c824497/210417_GithubCover-01.jpg"
 	   banner="https://files.cargocollective.com/c824497/210417_GithubCover-01.jpg"
 	   eid="Q105076419"
